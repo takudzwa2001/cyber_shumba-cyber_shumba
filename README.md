@@ -1,10 +1,10 @@
 # cyber_shumba-cyber_shumba
 
-![Cyber Shumba Banner](assets/banner.png)
+![Cyber Shumba Banner](banner.svg)
 
 # 👋 Hey there! I'm Hillary Takudzwa  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Cybersecurity+Enthusiast;SEO+%26+Digital+Marketing+Specialist;Full+Stack+Developer;Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Cybersecurity+Enthusiast;SEO+%26+Digital+Marketing+Specialist;Full+Stack+Developer;Always+Learning+New+Things)](https://readme-typing-svg.herokuapp.com/)
 
 ---
 
@@ -44,4 +44,3 @@
 💼 [LinkedIn](https://www.linkedin.com/in/takudzwa-hillary-maburutse-036033223)  
 
 ⭐️ *Thanks for stopping by my profile!*  
-
