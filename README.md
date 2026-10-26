@@ -1,4 +1,4 @@
-# cyber_shumba-cyber_shumba
+# cyber_shumba
 
 ![Cyber Shumba Banner](banner.svg)
 
